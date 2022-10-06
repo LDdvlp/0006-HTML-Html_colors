@@ -1,0 +1,288 @@
+-------------------------------------------------------------------------------------------------------------------------------
+
+001 #CD5C5C INDIANRED				indianred				IndianRed				RGB(205, 92, 92)			RED
+
+002	#F08080	LIGHTCORAL				lightcoral				LightCoral				RGB(240, 128, 128)			RED
+
+003	#FA8072	SALMON					salmon					Salmon					RGB(250, 128, 114)			RED
+
+004	#E9967A	DARKSALMON				darksalmon				DarkSalmon				RGB(233, 150, 122)			RED
+
+005	#FFA07A	LIGHTSALMON				lightsalmon				LightSalmon				RGB(255, 160, 122)			RED
+
+006	#DC143C	CRIMSON					crimson					Crimson					RGB(220, 20, 60)			RED
+
+007	#FF0000	RED						red						Red						RGB(255, 0, 0)				RED
+
+008	#B22222	FIREBRICK				firebrick				FireBrick				RGB(178, 34, 34)			RED
+
+009	#8B0000	DARKRED					darkred					DarkRed					RGB(139, 0, 0)				RED
+-------------------------------------------------------------------------------------------------------------------------------
+010	#FFC0CB	PINK					pink					Pink					RGB(255, 192, 203)			PINK
+
+011	#FFB6C1	LIGHTPINK				lightpink				LightPink				RGB(255, 182, 193)			PINK
+
+012	#FF69B4	HOTPINK					hotpink					HotPink					RGB(255, 105, 180)			PINK
+
+013	#FF1493	DEEPPINK				deeppink				DeepPink				RGB(255, 20, 147)			PINK
+
+014	#C71585	MEDIUMVIOLETRED			mediumvioletred			MediumVioletRed			RGB(199, 21, 133)			PINK
+
+015	#DB7093	PALEVIOLETRED			palevioletred			PaleVioletRed			RGB(219, 112, 147)			PINK
+-------------------------------------------------------------------------------------------------------------------------------
+016	#FFA07A	LIGHTSALMON				lightsalmon				LightSalmon				RGB(255, 160, 122)			ORANGE
+
+017	#FF7F50	CORAL					coral					Coral					RGB(255, 127, 80)			ORANGE
+
+018	#FF6347	TOMATO					tomato					Tomato					RGB(255, 99, 71)			ORANGE
+
+019	#FF4500	ORANGERED				orangered				Orangered				RGB(255, 69, 0)				ORANGE
+
+020	#FF8C00	DARKORANGE				darkorange				DarkOrange				RGB(255, 140, 0)			ORANGE
+
+021	#FFA500	ORANGE					orange					Orange					RGB(255, 165, 0)			ORANGE
+-------------------------------------------------------------------------------------------------------------------------------
+022	#FFD700	GOLD					gold					Gold					RGB(255, 215, 0)			YELLOW
+
+023	#FFFF00	YELLOW					yellow					Yellow					RGB(255, 255, 0)			YELLOW
+
+024	#FFFFE0	LIGHTYELLOW				lightyellow				LightYellow				RGB(255, 255, 224)			YELLOW
+
+025	#FFFACD	LEMONCHIFFON			lemonchiffon			LemonChiffon			RGB(255, 250, 205)			YELLOW
+
+026	#FAFAD2	LIGHTGOLDENRODYELLOW	lightgoldenrodyellow	LightGoldenRodYellow	RGB(250, 250, 210)			YELLOW
+
+027	#FFEFD5	PAPAYAWHIP				papayawhip				PapayaWhip				RGB(255, 239, 213)			YELLOW
+
+028	#FFE4B5	MOCCASIN				moccasin				Moccasin				RGB(255, 228, 181)			YELLOW
+
+029	#FFDAB9	PEACHPUFF				peachpuff				PeachPuff				RGB(255, 218, 185)			YELLOW
+
+030	#EEE8AA	PALEGOLDENROD			palegoldenrod			PaleGoldenRod			RGB(238, 232, 170)			YELLOW
+
+031	#F0E68C	KHAKI					khaki					Khaki					RGB(240, 230, 140)			YELLOW
+
+032	#BDB76B	DARKKHAKI				darkkhaki				DarkKhaki				RGB(189, 183, 107)			YELLOW
+-------------------------------------------------------------------------------------------------------------------------------
+033	#E6E6FA	LAVENDER				lavender				Lavender				RGB(230, 230, 250)			VIOLET
+
+034	#D8BFD8	THISTLE					thistle					Thistle					RGB(216, 191, 216)			VIOLET
+
+035	#DDA0DD	PLUM					plum					Plum					RGB(221, 160, 221)			VIOLET
+
+036	#EE82EE	VIOLET					violet					Violet					RGB(238, 130, 238)			VIOLET
+
+037	#DA70D6	ORCHID					orchid					Orchid					RGB(218, 112, 214)			VIOLET
+
+038	#FF00FF	FUCHSIA					fuchsia					Fuchsia					RGB(255, 0, 255)			VIOLET
+
+039	#FF00FF	MAGENTA					magenta					Magenta					RGB(255, 0, 255)			VIOLET
+
+040	#BA55D3	MEDIUMORCHID			mediumorchid			MediumOrchid			RGB(186, 85, 211)			VIOLET
+
+041	#9370DB	MEDIUMPURPLE			mediumpurple			MediumPurple			RGB(147, 112, 219)			VIOLET
+
+042	#663399	REBECCAPURPLE			rebeccapurple			RebeccaPurple			RGB(102, 51, 153)			VIOLET
+
+043	#8A2BE2	BLUEVIOLET				blueviolet				BlueViolet				RGB(138, 43, 226)			VIOLET
+
+044	#9400D3	DARKVIOLET				darkviolet				DarkViolet				RGB(148, 0, 211)			VIOLET
+
+045	#9932CC	DARKORCHID				darkorchid				DarkOrchid				RGB(153, 50, 204)			VIOLET
+
+046	#8B008B	DARKMAGENTA				darkmagenta				DarkMagenta				RGB(139, 0, 139)			VIOLET
+
+047	#800080	PURPLE					purple					Purple					RGB(128, 0, 128)			VIOLET
+
+048	#4B0082	INDIGO					indigo					Indigo					RGB(75, 0, 130)				VIOLET
+
+049	#6A5ACD	SLATEBLUE				slateblue				SlateBlue				RGB(106, 90, 205)			VIOLET
+
+050	#483D8B	DARKSLATEBLUE			darkslateblue			DarkSlateBlue			RGB(72, 61, 139)			VIOLET
+
+051	#7B68EE	MEDIUMSLATEBLUE			mediumslateblue			MediumSlateBlue			RGB(123, 104, 238)			VIOLET
+-------------------------------------------------------------------------------------------------------------------------------
+052	#ADFF2F	GREENYELLOW				greenyellow				GreenYellow				RGB(173, 255, 47)			GREEN
+
+053	#7FFF00	CHARTREUSE				chartreuse				Chartreuse				RGB(127, 255, 0)			GREEN
+
+054	#7CFC00	LAWNGREEN				lawngreen				LawnGreen				RGB(124, 252, 0)			GREEN
+
+055	#00FF00	LIME					lime					Lime					RGB(0, 255, 0)				GREEN
+
+056	#32CD32	LIMEGREEN				limegreen				LimeGreen				RGB(50, 205, 50)			GREEN
+
+057	#98FB98	PALEGREEN				palegreen				PaleGreen				RGB(152, 251, 152)			GREEN
+						
+058	#90EE90	LIGHTGREEN				lightgreen				LightGreen				RGB(144, 238, 144)			GREEN
+						
+059	#00FA9A	MEDIUMSPRINGGREEN		mediumspringgreen		MediumSpringGreen		RGB(0, 250, 154)			GREEN
+						
+060	#00FF7F	SPRINGGREEN				springgreen				SpringGreen				RGB(0, 255, 127)			GREEN
+						
+061	#3CB371	MEDIUMSEAGREEN			mediumseagreen			MediumSeaGreen			RGB(60, 179, 113)			GREEN
+						
+062	#2E8B57	SEAGREEN				seagreen				SeaGreen				RGB(46, 139, 87)			GREEN
+						
+063	#228B22	FORESTGREEN				forestgreen				ForestGreen				RGB(34, 139, 34)			GREEN
+						
+064	#008000	GREEN					green					Green					RGB(0, 128, 0)				GREEN
+						
+065	#006400	DARKGREEN				darkgreen				DarkGreen				RGB(0, 100, 0)				GREEN
+						
+066	#9ACD32	YELLOWGREEN				yellowgreen				YellowGreen				RGB(154, 205, 50)			GREEN
+						
+067	#6B8E23	OLIVEDRAB				olivedrab				OliveDrab				RGB(107, 142, 35)			GREEN
+						
+068	#808000	OLIVE					olive					Olive					RGB(128, 128, 0)			GREEN
+						
+069	#556B2F	DARKOLIVEGREEN			darkolivegreen			DarkOliveGreen			RGB(85, 107, 47)			GREEN
+						
+070	#66CDAA	MEDIUMAQUAMARINE		mediumaquamarine		MediumAquaMarine		RGB(102, 205, 170)			GREEN
+						
+071	#8FBC8B	DARKSEAGREEN			darkseagreen			DarkSeaGreen			RGB(143, 188, 139)			GREEN
+						
+072	#20B2AA	LIGHTSEAGREEN			lightseagreen			LightSeaGreen			RGB(32, 178, 170)			GREEN
+						
+073	#008B8B	DARKCYAN				darkcyan				DarkCyan				RGB(0, 139, 139)			GREEN
+						
+074	#008080	TEAL					teal					Teal					RGB(0, 128, 128)			GREEN
+-------------------------------------------------------------------------------------------------------------------------------						
+075	#00FFFF	AQUA					aqua					Aqua					RGB(0, 255, 255)			BLUE
+						
+076	#00FFFF	CYAN					cyan					Cyan					RGB(0, 255, 255)			BLUE
+
+077	#E0FFFF	LIGHTCYAN				lightcyan				LightCyan				RGB(224, 255, 255)			BLUE
+						
+078	#AFEEEE	PALETURQUOISE			paleturquoise			PaleTurquoise			RGB(175, 238, 238)			BLUE
+						
+079	#7FFFD4	AQUAMARINE				aquamarine				Aquamarine				RGB(127, 255, 212)			BLUE
+						
+080	#40E0D0	TURQUOISE				turquoise				Turquoise				RGB(64, 224, 208)			BLUE
+						
+081	#48D1CC	MEDIUMTURQUOISE			mediumturquoise			MediumTurquoise			RGB(72, 209, 204)			BLUE
+						
+082	#00CED1	DARKTURQUOISE			darkturquoise			DarkTurquoise			RGB(0, 206, 209)			BLUE
+						
+083	#5F9EA0	CADETBLUE				cadetblue				CadetBlue				RGB(95, 158, 160)			BLUE
+						
+084	#4682B4	STEELBLUE				steelblue				Steelblue				RGB(70, 130, 180)			BLUE
+						
+085	#B0C4DE	LIGHTSTEELBLUE			lightsteelblue			LightSteelBlue			RGB(176, 196, 222)			BLUE
+						
+086	#B0E0E6	POWDERBLUE				powderblue				PowderBlue				RGB(176, 224, 230)			BLUE
+						
+087	#ADD8E6	LIGHTBLUE				lightblue				LightBlue				RGB(173, 216, 230)			BLUE
+						
+088	#87CEEB	SKYBLUE					skyblue					SkyBlue					RGB(135, 206, 235)			BLUE
+						
+089	#87CEFA	LIGHTSKYBLUE			lightskyblue			LightSkyBlue			RGB(135, 206, 250)			BLUE
+						
+090	#00BFFF	DEEPSKYBLUE				deepskyblue				DeepSkyBlue				RGB(0, 191, 255)			BLUE
+						
+091	#1E90FF	DODGERBLUE				dodgerblue				DodgerBlue				RGB(30, 144, 255)			BLUE
+						
+092	#6495ED	CORNFLOWERBLUE			cornflowerblue			CornFlowerBlue			RGB(100, 149, 237)			BLUE
+						
+093	#7B68EE	MEDIUMSLATEBLUE			mediumslateblue			MediumSlateBlue			RGB(123, 104, 238)			BLUE
+						
+094	#4169E1	ROYALBLUE				royalblue				RoyalBlue				RGB(65, 105, 225)			BLUE
+						
+095	#0000FF	BLUE					blue					Blue					RGB(0, 0, 255)				BLUE
+						
+096	#0000CD	MEDIUMBLUE				mediumblue				MediumBlue				RGB(0, 0, 205)				BLUE
+						
+097	#00008B	DARKBLUE				darkblue				DarkBlue				RGB(0, 0, 139)				BLUE
+						
+098	#000080	NAVY					navy					Navy					RGB(0, 0, 128)				BLUE
+						
+099	#191970	MIDNIGHTBLUE			midnightblue			MidnightBlue			RGB(25, 25, 112)			BLUE
+-------------------------------------------------------------------------------------------------------------------------------						
+100	#FFF8DC	CORNSILK				cornsilk				CornSilk				RGB(255, 248, 220)			BROWN
+						
+101	#FFEBCD	BLANCHEDALMOND			blanchedalmond			BlancheDalmond			RGB(255, 235, 205)			BROWN
+						
+102	#FFE4C4	BISQUE					bisque					Bisque					RGB(255, 228, 196)			BROWN
+						
+103	#FFDEAD	NAVAJOWHITE				navajowhite				NavajoWhite				RGB(255, 222, 173)			BROWN
+						
+104	#F5DEB3	WHEAT					wheat					Wheat					RGB(245, 222, 179)			BROWN
+						
+105	#DEB887	BURLYWOOD				burlywood				Burlywood				RGB(222, 184, 135)			BROWN
+						
+106	#D2B48C	TAN						tan						Tan						RGB(210, 180, 140)			BROWN
+						
+107	#BC8F8F	ROSYBROWN				rosybrown				RosyBrown				RGB(188, 143, 143)			BROWN
+						
+108	#F4A460	SANDYBROWN				sandybrown				SandyBrown				RGB(244, 164, 96)			BROWN
+						
+109	#DAA520	GOLDENROD				goldenrod				GoldenRod				RGB(218, 165, 32)			BROWN
+						
+110	#B8860B	DARKGOLDENROD			darkgoldenrod			DarkGoldenRod			RGB(184, 134, 11)			BROWN
+						
+111	#CD853F	PERU					peru					Peru					RGB(205, 133, 63)			BROWN
+						
+112	#D2691E	CHOCOLATE				chocolate				Chocolate				RGB(210, 105, 30)			BROWN
+						
+113	#8B4513	SADDLEBROWN				saddlebrown				SaddleBrown				RGB(139, 69, 19)			BROWN
+						
+114	#A0522D	SIENNA					sienna					Sienna					RGB(160, 82, 45)			BROWN
+						
+115	#A52A2A	BROWN					brown					Brown					RGB(165, 42, 42)			BROWN
+						
+116	#800000	MAROON					maroon					Maroon					RGB(128, 0, 0)				BROWN
+-------------------------------------------------------------------------------------------------------------------------------						
+117	#FFFFFF	WHITE					white					White					RGB(255, 255, 255)			WHITE
+						
+118	#FFFAFA	SNOW					snow					Snow					RGB(255, 250, 250)			WHITE
+						
+119	#F0FFF0	HONEYDEW				honeydew				HoneyDew				RGB(240, 255, 240)			WHITE
+
+120	#F5FFFA	MINTCREAM				mintcream				MintCream				RGB(245, 255, 250)			WHITE
+						
+121	#F0FFFF	AZURE					azure					Azure					RGB(240, 255, 255)			WHITE
+						
+122	#F0F8FF	ALICEBLUE				aliceblue				AliceBlue				RGB(240, 248, 255)			WHITE
+						
+123	#F8F8FF	GHOSTWHITE				ghostwhite				GhostWhite				RGB(248, 248, 255)			WHITE
+
+124	#F5F5F5	WHITESMOKE				whitesmoke				WhiteSmoke				RGB(245, 245, 245)			WHITE
+						
+125	#FFF5EE	SEASHELL				seashell				SeaShell				RGB(255, 245, 238)			WHITE
+						
+126	#F5F5DC	BEIGE					beige					Beige					RGB(245, 245, 220)			WHITE
+						
+127	#FDF5E6	OLDLACE					oldlace					OldLace					RGB(253, 245, 230)			WHITE
+						
+128	#FFFAF0	FLORALWHITE				floralwhite				FloralWhite				RGB(255, 250, 240)			WHITE
+						
+129	#FFFFF0	IVORY					ivory					Ivory					RGB(255, 255, 240)			WHITE
+						
+130	#FAEBD7	ANTIQUEWHITE			antiquewhite			AntiqueWhite			RGB(250, 235, 215)			WHITE
+						
+131	#FAF0E6	LINEN					linen					Linen					RGB(250, 240, 230)			WHITE
+						
+132	#FFF0F5	LAVENDERBLUSH			lavenderblush			LavenderBlush			RGB(255, 240, 245)			WHITE
+						
+133	#FFE4E1	MISTYROSE				mistyrose				MistyRose				RGB(255, 228, 225)			WHITE
+-------------------------------------------------------------------------------------------------------------------------------						
+134	#DCDCDC	GAINSBORO				gainsboro				Gainsboro				RGB(220, 220, 220)			GREY
+						
+135	#D3D3D3	LIGHTGRAY				lightgray				LightGray				RGB(211, 211, 211)			GREY
+						
+136	#C0C0C0	SILVER					silver					Silver					RGB(192, 192, 192)			GREY
+						
+137	#A9A9A9	DARKGRAY				darkgray				DarkGray				RGB(169, 169, 169)			GREY
+						
+138	#808080	GRAY					gray					Gray					RGB(128, 128, 128)			GREY
+						
+139	#696969	DIMGRAY					dimgray					DimGray					RGB(105, 105, 105)			GREY
+						
+140	#778899	LIGHTSLATEGRAY			lightslategray			LightSlateGray			RGB(119, 136, 153)			GREY
+						
+141	#708090	SLATEGRAY				slategray				SlateGray				RGB(112, 128, 144)			GREY
+						
+142	#2F4F4F	DARKSLATEGRAY			darkslategray			DarkSlateGray			RGB(47, 79, 79)				GREY
+						
+143	#000000	BLACK					black					Black					RGB(0, 0, 0)				GREY
+-------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,23 @@
+main {
+	display: grid;
+	grid-template-columns: repeat(16, 25px);
+	grid-template-rows: repeat(1000, 25px);
+	/*
+	16 x 1 000 = 16 000
+	main.innerHTML = generateHTML(16000); --> JS
+	*/
+
+	/*
+	grid-template-columns: repeat(16, 25px);
+	grid-template-rows: repeat(50000, 25px);
+	*/
+	/*
+	16 x 50 000 = 800 000
+	main.innerHTML = generateHTML(800000); --> JS
+	*/
+
+
+	/*
+	grid-gap: 3px;
+	*/
+}
